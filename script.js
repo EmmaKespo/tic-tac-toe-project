@@ -1,4 +1,3 @@
-alert("HELLO EMMY");
 
 const gameBoard = (() => {
     let board = ["", "", "", "", "", "", "", "", ""];
